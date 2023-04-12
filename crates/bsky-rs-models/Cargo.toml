@@ -3,6 +3,7 @@ name = "bsky-rs-models"
 version = "0.0.1"
 edition = "2021"
 license = "MIT"
+repository = "https://github.com/sizumita/bsky-rs"
 authors = ["Sumito Izumita github@smdr.io"]
 description = "ATProto(Bluesky) API implementation for Rust. This package is model package, so you should see bsky-rs crate."
 

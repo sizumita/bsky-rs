@@ -10,6 +10,6 @@ authors = ["Sumito Izumita github@smdr.io"]
 edition = "2021"
 
 [workspace.dependencies]
-bsky-rs-models = { path = "crates/bsky-rs-models" }
+bsky-rs-models = { path = "crates/bsky-rs-models", version = "0.0.1" }
 
 serde = { version = "1.0.159", features = ["derive"] }

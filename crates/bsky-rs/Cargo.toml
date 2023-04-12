@@ -4,6 +4,7 @@ version = "0.0.1"
 edition = "2021"
 license = "MIT"
 authors = ["Sumito Izumita github@smdr.io"]
+repository = "https://github.com/sizumita/bsky-rs"
 description = "ATProto(Bluesky) API implementation for Rust."
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
