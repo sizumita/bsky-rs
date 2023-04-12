@@ -1,7 +1,10 @@
 [package]
 name = "bsky-rs-models"
-version = "0.1.0"
+version = "0.0.1"
 edition = "2021"
+license = "MIT"
+authors = ["Sumito Izumita github@smdr.io"]
+description = "ATProto(Bluesky) API implementation for Rust. This package is model package, so you should see bsky-rs crate."
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 

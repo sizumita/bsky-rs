@@ -5,6 +5,10 @@ members = [
     "crates/bsky-rs-models"
 ]
 
+[workspace.package]
+authors = ["Sumito Izumita github@smdr.io"]
+edition = "2021"
+
 [workspace.dependencies]
 bsky-rs-models = { path = "crates/bsky-rs-models" }
 

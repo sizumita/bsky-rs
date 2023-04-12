@@ -4,14 +4,14 @@ version = 3
 
 [[package]]
 name = "bsky-rs"
-version = "0.1.0"
+version = "0.0.1"
 dependencies = [
  "bsky-rs-models",
 ]
 
 [[package]]
 name = "bsky-rs-models"
-version = "0.1.0"
+version = "0.0.1"
 dependencies = [
  "serde",
 ]
