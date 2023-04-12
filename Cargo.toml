@@ -1,0 +1,11 @@
+[workspace]
+
+members = [
+    "crates/bsky-rs",
+    "crates/bsky-rs-models"
+]
+
+[workspace.dependencies]
+bsky-rs-models = { path = "crates/bsky-rs-models" }
+
+serde = { version = "1.0.159", features = ["derive"] }
